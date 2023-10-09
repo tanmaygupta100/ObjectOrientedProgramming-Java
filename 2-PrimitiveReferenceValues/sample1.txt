@@ -1,0 +1,18 @@
+SAMPLE RUNS:
+______________________________________________
+Enter an m value for the first line: -3
+Enter an b value for the first line: -2
+Enter an m value for the second line: 1
+Enter an b value for the second line: 4
+First line: y = -3.0x + -2.0
+Second line: y = 1.0x + 4.0
+The lines intersect at (-1.5,2.5)
+
+Enter an m value for the first line: 1.5
+Enter an b value for the first line: 2
+Enter an m value for the second line: 17
+Enter an b value for the second line: 0
+First line: y = 1.5x + 2.0
+Second line: y = 17.0x + 0.0
+The lines intersect at (0.12903225,2.1935484)
+______________________________________________
